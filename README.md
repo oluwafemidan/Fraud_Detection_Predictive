@@ -5,10 +5,10 @@
 [3]: https://public.tableau.com/app/profile/oluwafemi.daniel/vizzes
 [4]: https://twitter.com/ajala14055
 
-[![GitHub](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/27f0edeb-4bbc-498a-933b-9e6cd5185755)][1]
-[![LinkedIn](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/bcc35516-4479-4be6-8170-9706da5f4dba)][2]
-[![tableau](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/7049edb3-b4b5-4b53-b40c-15d3873e90fc)][3]
-[![X](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/a2b38d5e-8768-49fd-b9e0-c8e03014beb0)][4]
+[![GitHub](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/47591faf-5a1f-4798-8971-703579c7664f)][1]
+[![LinkedIn](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/70c883a0-6868-41d2-b7a7-a9da630d8a72)][2]
+[![tableau](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/376410a0-8dc1-4aa2-93ed-e634d771c16e)][3]
+[![X](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/473ce843-cf23-486c-93db-fe7098f7d594)][4]
 
 </div>
 
@@ -119,13 +119,12 @@ I am an AI Enthusiast and Data science & ML practitioner
 
 
 
-
 [1]: https://github.com/oluwafemidan
 [2]: https://www.linkedin.com/in/oluwafemidanielajala/
 [3]: https://public.tableau.com/app/profile/oluwafemi.daniel/vizzes
 [4]: https://twitter.com/ajala14055
 
-[![GitHub](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/27f0edeb-4bbc-498a-933b-9e6cd5185755)][1]
-[![LinkedIn](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/bcc35516-4479-4be6-8170-9706da5f4dba)][2]
-[![tableau](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/7049edb3-b4b5-4b53-b40c-15d3873e90fc)][3]
-[![X](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/a2b38d5e-8768-49fd-b9e0-c8e03014beb0)][4]
+[![GitHub](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/47591faf-5a1f-4798-8971-703579c7664f)][1]
+[![LinkedIn](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/70c883a0-6868-41d2-b7a7-a9da630d8a72)][2]
+[![tableau](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/376410a0-8dc1-4aa2-93ed-e634d771c16e)][3]
+[![X](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/473ce843-cf23-486c-93db-fe7098f7d594)][4]
