@@ -46,7 +46,7 @@ Develop models to continuously monitor user behavior, detecting anomalies indica
 **Libraries:**  `NumPy` `pandas` `matplotlib` `sklearn` `seaborn` 
 
 ## Data Exploration
-The dataset has 169 (2%) fraudulent transactions and 8394 (98%) non-fraudulent transactions
+The dataset has 169 (2%) fraudulent transactions and 8394 (98%) non-fraudulent transactions. That means the data is highly unbalanced with respect with target variable Class.
 
 ### Feature Engineering
 `TransactionFreqRatio` refers to a calculated metric that represents the normalized transaction frequency for each entry in the dataset. It is obtained by dividing the transaction frequency of each entry (the number of transactions associated with that entry) by the average transaction frequency across the entire dataset. This ratio provides a measure of how many times more or less frequent a particular entry's transactions are compared to the average transaction frequency. It allows for the comparison of transaction frequencies across different entries while accounting for variations in the overall dataset.
