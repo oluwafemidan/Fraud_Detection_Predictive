@@ -39,13 +39,52 @@ Develop models to continuously monitor user behavior, detecting anomalies indica
 - **FraudIndicator:** Binary indicator (0 or 1) representing whether the transaction is fraudulent (1) or not (0), facilitating fraud detection and prevention efforts.
 
 ## Mapping
-
+![Mapping](https://github.com/oluwafemidan/Heart-disease-prediction/assets/146761013/bf71ba31-2669-4e9d-b7df-829e35baefa2)
 
 ## Implementation:
 
 **Libraries:**  `NumPy` `pandas` `matplotlib` `sklearn` `seaborn` 
 
+### Feedback
 
+If you have any feedback, please reach out at ajalaoluwafemidaniel@gmail.com
+
+
+### 🚀 About Me
+#### Hi, I'm OLuwafemi! 👋
+I am an AI Enthusiast and Data science & ML practitioner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1]: https://github.com/oluwafemidan
+[2]: https://www.linkedin.com/in/oluwafemidanielajala/
+[3]: https://public.tableau.com/app/profile/oluwafemi.daniel/vizzes
+[4]: https://twitter.com/ajala14055
+
+[![GitHub](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/2c70a08b-a628-4800-8a8d-1f738b00e865)][1]
+[![LinkedIn](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/82b1f60f-5244-4081-bc5b-ad72ef2daa7e)][2]
+[![tableau](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/d3d07da2-a8d4-4e36-8777-00231254610e)][3]
+[![X](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/4d790bae-2842-4d0f-af0a-1f48d59b704e)][4]
 
 
 
