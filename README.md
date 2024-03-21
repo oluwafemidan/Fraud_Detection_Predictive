@@ -45,6 +45,51 @@ Develop models to continuously monitor user behavior, detecting anomalies indica
 
 **Libraries:**  `NumPy` `pandas` `matplotlib` `sklearn` `seaborn` 
 
+## Data Exploration
+The dataset has 169 (2%) fraudulent transactions and 8394 (98%) non-fraudulent transactions
+
+### Feature Engineering
+`TransactionFreqRatio` refers to a calculated metric that represents the normalized transaction frequency for each entry in the dataset. It is obtained by dividing the transaction frequency of each entry (the number of transactions associated with that entry) by the average transaction frequency across the entire dataset. This ratio provides a measure of how many times more or less frequent a particular entry's transactions are compared to the average transaction frequency. It allows for the comparison of transaction frequencies across different entries while accounting for variations in the overall dataset.
+
+`MerchantFreqRatio` refers to a calculated metric that represents the normalized merchant frequency for each entry in the dataset. It is obtained by dividing the merchant frequency of each entry (the number of transactions associated with a particular merchant) by the average merchant frequency across the entire dataset. This ratio provides a measure of how many times more or less frequent a particular entry's transactions with a specific merchant are compared to the average merchant frequency. It allows for the comparison of merchant frequencies across different entries while accounting for variations in the overall dataset.
+
+### Machine Learning
+Each classifier is represented as a list containing an instance of a classifier model from scikit-learn and a string indicating the name of the classifier. This setup allows for easy iteration and identification of different classifiers within a machine learning pipeline.
+```
+classifiers = [[XGBClassifier(),'XGB Classifier'],
+              [RandomForestClassifier(),'Random Forest'],
+              [LogisticRegression(),'Logistic Regression'],
+              [KNeighborsClassifier(), 'K-Nearest Neighbours'],
+              [SGDClassifier(),'SGD Classifier']]
+```
+This code snippet trains multiple classifier models on training data and evaluates their performance metrics on test data. It iterates over a list of classifiers, fits each model, computes metrics such as accuracy score, cross-validation score, and ROC AUC score, and prints the results. Finally, it appends the metrics to lists for further analysis.
+```
+score_list = []
+cross_val_list = []
+roc_auc_list = []
+
+for classifier in classifiers:
+    model = classifier[0]
+    model.fit(X_train, Y_train)
+    model_name = classifier[1]
+    
+    pred = model.predict(X_test)
+
+    score = model.score(X_test, Y_test)
+    cross_val = cross_val_score(model, X_test, Y_test).mean()
+    roc_auc = roc_auc_score(Y_test, pred)
+    
+    score_list.append(score)
+    cross_val_list.append(cross_val)
+    roc_auc_list.append(roc_auc)
+    
+    print(model_name, 'model score:     ' + str(round(score*100, 2)) + '%')
+    print(model_name, 'cross val score: ' +str(round(cross_val*100, 2)) + '%')
+    print(model_name, 'roc auc score:   ' + str(round(roc_auc*100, 2)) + '%')
+    
+    if model_name != classifiers[-1][1]:
+        print('')
+```
 ### Feedback
 
 If you have any feedback, please reach out at ajalaoluwafemidaniel@gmail.com
