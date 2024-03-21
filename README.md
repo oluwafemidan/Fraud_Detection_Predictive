@@ -5,8 +5,8 @@
 [3]: https://public.tableau.com/app/profile/oluwafemi.daniel/vizzes
 [4]: https://twitter.com/ajala14055
 
-[![GitHub](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/d035ed0a-3e7d-4047-b07a-bc351b7d0032)][1]
-[![LinkedIn](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/94ef8e29-65ad-4143-b1c9-ffe43a7cc79c)][2]
+[![GitHub](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/27f0edeb-4bbc-498a-933b-9e6cd5185755)][1]
+[![LinkedIn](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/bcc35516-4479-4be6-8170-9706da5f4dba)][2]
 [![tableau](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/7049edb3-b4b5-4b53-b40c-15d3873e90fc)][3]
 [![X](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/a2b38d5e-8768-49fd-b9e0-c8e03014beb0)][4]
 
